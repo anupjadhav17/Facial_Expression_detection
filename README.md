@@ -1,0 +1,2 @@
+# Facial_Expression_detection
+Facial expression recognition has many potential applications which have attracted the attention of researchers in the last decade. Feature extraction is one important step in expression analysis which towards fast and accurate expression recognition.We are using different Deep Learning techniques and libraries such as CNN, Harr_Cascade_Classifier, Tensorflow, keras, numpy, pandas etc..
